@@ -1,0 +1,21 @@
+.d{
+    height: 300px;
+    width: 400px;
+    border: 5px solid red;
+    margin: auto;
+}
+.head{
+    text-align: center;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    border: 3px solid #04AA6D;
+    margin: 25px 45px 0px 45px;
+}
+.para{
+    text-align: justify;
+    margin: auto;
+    margin-top: 10px;
+    border: 2px solid purple;
+    width: 305px;
+    text-align-last: center;
+}
